@@ -6,6 +6,7 @@
 -- Generation Time: 25-Ago-2021 às 16:15
 -- Versão do servidor: v3.2.4 Xampp
 -- PHP Version: 8.0.3
+/* necessário atualizar para uma versão mais atual do PHP */
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
